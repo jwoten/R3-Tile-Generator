@@ -4,5 +4,6 @@
 # But not these files...
 !.gitignore
 !index.py
+!indexOffline.py
 !resize-event.json
 !tileZoomLevel-event.json
